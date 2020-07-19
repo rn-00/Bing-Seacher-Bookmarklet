@@ -1,0 +1,1 @@
+javascript:var d=document; var tx=d.selection?d.selection.createRange().text:d.getSelection(); var subw=window.open('https://www.bing.com/search?q='+tx).document;
